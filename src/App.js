@@ -8,7 +8,7 @@ const Description=()=>{
 const App = () =>{  
   return (
     <div className="App">
-      <Mensaje messaje='hola perrillos'/>
+      <Mensaje messaje='hola gente como estan '/>
       <Description/>
     </div>
   );
